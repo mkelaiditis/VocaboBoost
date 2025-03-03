@@ -1,0 +1,475 @@
+{
+  "metadata": {
+    "title": "German-Greek Economic Terminology Glossary",
+    "description": "A comprehensive glossary of economic and business terminology in German with Greek translations",
+    "language": "German-Greek",
+    "totalEntries": 70,
+    "categories": ["economics", "business", "finance", "management"],
+    "modules": [
+      {
+        "id": 1,
+        "title": "Wirtschaftsspiel",
+        "sections": ["Auftakt", "Economic Terms"]
+      },
+      {
+        "id": 2,
+        "title": "Glossar",
+        "sections": ["2a", "2b", "2c", "2d", "2e", "3a", "3c", "4"]
+      },
+      {
+        "id": 3,
+        "title": "Modul 1",
+        "sections": ["1a", "1b", "2a"]
+      },
+      {
+        "id": 4,
+        "title": "Modul 2",
+        "sections": []
+      }
+    ],
+    "version": "1.0",
+    "creationDate": "2025-03-03"
+  },
+  "entries": [
+    {
+      "id": "abschwung",
+      "german": {
+        "word": "der Abschwung",
+        "article": "der",
+        "gender": "masculine",
+        "grammaticalNotes": "Singular (Sg.)"
+      },
+      "greek": {
+        "word": "η ύφεση",
+        "article": "η"
+      },
+      "context": {
+        "category": "economics",
+        "subcategory": "business cycles",
+        "moduleNumber": 1,
+        "sectionId": "auftakt"
+      },
+      "examples": [
+        {
+          "german": "wirtschaftlicher Abschwung",
+          "greek": "οικονομική ύφεση"
+        }
+      ],
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "aktie",
+      "german": {
+        "word": "die Aktie",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "-n"
+      },
+      "greek": {
+        "word": "η μετοχή",
+        "article": "η"
+      },
+      "context": {
+        "category": "finance",
+        "subcategory": "stock market",
+        "moduleNumber": 1,
+        "sectionId": "auftakt"
+      },
+      "examples": [],
+      "difficulty": "beginner"
+    },
+    {
+      "id": "aktienkurs",
+      "german": {
+        "word": "der Aktienkurs",
+        "article": "der",
+        "gender": "masculine",
+        "plural": "-e"
+      },
+      "greek": {
+        "word": "η τιμή της μετοχής",
+        "article": "η"
+      },
+      "context": {
+        "category": "finance",
+        "subcategory": "stock market",
+        "moduleNumber": 1,
+        "sectionId": "auftakt"
+      },
+      "examples": [],
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "anfallen",
+      "german": {
+        "word": "anfallen",
+        "verbForms": "fällt an, fiel an, ist angefallen",
+        "wordType": "verb"
+      },
+      "greek": {
+        "word": "προκύπτω, απορρέω"
+      },
+      "context": {
+        "category": "business",
+        "subcategory": "costs",
+        "moduleNumber": 1,
+        "sectionId": "auftakt"
+      },
+      "examples": [
+        {
+          "german": "bei diesem Projekt fallen viele Kosten an",
+          "greek": "Με αυτό το σχέδιο προκύπτουν πολλά έξοδα"
+        }
+      ],
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "anlegen",
+      "german": {
+        "word": "anlegen",
+        "wordType": "verb"
+      },
+      "greek": {
+        "word": "επενδύω (επενδύω χρήματα)"
+      },
+      "context": {
+        "category": "finance",
+        "subcategory": "investment",
+        "moduleNumber": 1,
+        "sectionId": "auftakt"
+      },
+      "examples": [
+        {
+          "german": "Geld anlegen",
+          "greek": ""
+        }
+      ],
+      "difficulty": "beginner"
+    },
+    {
+      "id": "anteil",
+      "german": {
+        "word": "der Anteil",
+        "article": "der",
+        "gender": "masculine",
+        "plural": "-e"
+      },
+      "greek": {
+        "word": "το μερίδιο",
+        "article": "το"
+      },
+      "context": {
+        "category": "business",
+        "subcategory": "ownership",
+        "moduleNumber": 1,
+        "sectionId": "auftakt"
+      },
+      "examples": [],
+      "difficulty": "beginner"
+    },
+    {
+      "id": "aufnahme",
+      "german": {
+        "word": "die Aufnahme",
+        "article": "die",
+        "gender": "feminine",
+        "grammaticalNotes": "Singular (Sg.)"
+      },
+      "greek": {
+        "word": "η ένταξη",
+        "article": "η"
+      },
+      "context": {
+        "category": "business",
+        "subcategory": "human resources",
+        "moduleNumber": 1,
+        "sectionId": "auftakt"
+      },
+      "examples": [
+        {
+          "german": "Meine Aufnahme in die Firma verlief gut",
+          "greek": "Η ένταξή μου στην εταιρεία πήγε καλά"
+        }
+      ],
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "aufnehmen",
+      "german": {
+        "word": "aufnehmen",
+        "verbForms": "nimmt auf, nahm auf, hat aufgenommen",
+        "wordType": "verb"
+      },
+      "greek": {
+        "word": "παίρνω"
+      },
+      "context": {
+        "category": "finance",
+        "subcategory": "loans",
+        "moduleNumber": 1,
+        "sectionId": "auftakt"
+      },
+      "examples": [
+        {
+          "german": "einen Kredit aufnehmen",
+          "greek": "παίρνω μια πίστωση"
+        }
+      ],
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "ausschluss",
+      "german": {
+        "word": "der Ausschluss",
+        "article": "der",
+        "gender": "masculine",
+        "grammaticalNotes": "Singular (Sg.)"
+      },
+      "greek": {
+        "word": "ο αποκλεισμός",
+        "article": "ο"
+      },
+      "context": {
+        "category": "business",
+        "subcategory": "management",
+        "moduleNumber": 1,
+        "sectionId": "auftakt"
+      },
+      "examples": [],
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "boerse",
+      "german": {
+        "word": "die Börse",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "-n"
+      },
+      "greek": {
+        "word": "το χρηματιστήριο",
+        "article": "το"
+      },
+      "context": {
+        "category": "finance",
+        "subcategory": "stock market",
+        "moduleNumber": 1,
+        "sectionId": "auftakt"
+      },
+      "examples": [],
+      "difficulty": "beginner"
+    },
+    {
+      "id": "crowdfunding",
+      "german": {
+        "word": "das Crowdfunding",
+        "article": "das",
+        "gender": "neuter",
+        "grammaticalNotes": "Singular (Sg.)"
+      },
+      "greek": {
+        "word": "η χρηματοδότηση μιας ιδέας από τον ενδιαφερόμενο κόσμο",
+        "article": "η"
+      },
+      "context": {
+        "category": "finance",
+        "subcategory": "alternative financing",
+        "moduleNumber": 1,
+        "sectionId": "auftakt"
+      },
+      "examples": [],
+      "difficulty": "advanced"
+    },
+    {
+      "id": "dran_sein",
+      "german": {
+        "word": "dran sein",
+        "wordType": "expression"
+      },
+      "greek": {
+        "word": "είναι η σειρά"
+      },
+      "context": {
+        "category": "general",
+        "moduleNumber": 1,
+        "sectionId": "auftakt"
+      },
+      "examples": [
+        {
+          "german": "Du bist dran. Würfle und zieh deine Figur.",
+          "greek": "Είναι η σειρά σου. Ρίξε ζάρι και τράβηξε το πιόνι σου."
+        }
+      ],
+      "difficulty": "beginner"
+    },
+    {
+      "id": "einstellen",
+      "german": {
+        "word": "einstellen",
+        "wordType": "verb"
+      },
+      "greek": {
+        "word": "προσλαμβάνω"
+      },
+      "context": {
+        "category": "business",
+        "subcategory": "human resources",
+        "moduleNumber": 1,
+        "sectionId": "auftakt"
+      },
+      "examples": [
+        {
+          "german": "Die Firma stellt neue Mitarbeiter ein.",
+          "greek": "Η εταιρεία προσλαμβάνει νέους εργαζόμενους."
+        }
+      ],
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "erklimmen",
+      "german": {
+        "word": "erklimmen",
+        "verbForms": "erklimmt, erklomm, hat erklommen",
+        "wordType": "verb"
+      },
+      "greek": {
+        "word": "σκαρφαλώνω"
+      },
+      "context": {
+        "category": "general",
+        "moduleNumber": 1,
+        "sectionId": "auftakt"
+      },
+      "examples": [],
+      "difficulty": "advanced"
+    },
+    {
+      "id": "erscheinen",
+      "german": {
+        "word": "erscheinen",
+        "verbForms": "erscheint, erschien, ist erschienen",
+        "wordType": "verb"
+      },
+      "greek": {
+        "word": "φαίνομαι"
+      },
+      "context": {
+        "category": "general",
+        "moduleNumber": 1,
+        "sectionId": "auftakt"
+      },
+      "examples": [
+        {
+          "german": "Die Geschäftsidee erscheint ihm vielversprechend.",
+          "greek": "Η επιχειρηματική ιδέα του φαίνεται πολλά υποσχόμενη."
+        }
+      ],
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "sortieren",
+      "german": {
+        "word": "sortieren",
+        "wordType": "verb"
+      },
+      "greek": {
+        "word": "ξεδιαλέγω"
+      },
+      "context": {
+        "category": "general",
+        "moduleNumber": 2,
+        "sectionId": "4"
+      },
+      "examples": [],
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "uebersichtlich",
+      "german": {
+        "word": "übersichtlich",
+        "wordType": "adjective"
+      },
+      "greek": {
+        "word": "συνοπτικός"
+      },
+      "context": {
+        "category": "communication",
+        "moduleNumber": 2,
+        "sectionId": "4"
+      },
+      "examples": [],
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "verkehrsanbindung",
+      "german": {
+        "word": "die Verkehrsanbindung",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "-en"
+      },
+      "greek": {
+        "word": "η συγκοινωνιακή σύνδεση",
+        "article": "η"
+      },
+      "context": {
+        "category": "infrastructure",
+        "subcategory": "transportation",
+        "moduleNumber": 2,
+        "sectionId": "4"
+      },
+      "examples": [],
+      "difficulty": "advanced"
+    },
+    {
+      "id": "gewissen_gut",
+      "german": {
+        "word": "das Gewissen",
+        "article": "das",
+        "gender": "neuter",
+        "plural": "-"
+      },
+      "greek": {
+        "word": "η συνείδηση",
+        "article": "η"
+      },
+      "context": {
+        "category": "ethics",
+        "moduleNumber": 2,
+        "sectionId": "modul2"
+      },
+      "examples": [
+        {
+          "german": "ein gutes/schlechtes Gewissen haben",
+          "greek": "μια καλή / κακή συνείδηση"
+        }
+      ],
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "gewissen_reden",
+      "german": {
+        "word": "das Gewissen",
+        "article": "das",
+        "gender": "neuter",
+        "plural": "-"
+      },
+      "greek": {
+        "word": "η συνείδηση",
+        "article": "η"
+      },
+      "context": {
+        "category": "ethics",
+        "moduleNumber": 2,
+        "sectionId": "modul2"
+      },
+      "examples": [
+        {
+          "german": "jmd. ins Gewissen reden",
+          "greek": "επιπλήττω κάποιον"
+        }
+      ],
+      "difficulty": "advanced"
+    }
+  ]
+}

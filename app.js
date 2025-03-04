@@ -194,3 +194,22 @@ document.addEventListener('DOMContentLoaded', function() {
         if (event.results[i].isFinal) {
           finalTranscript += transcript;
         } else {
+          interimTranscript += transcript;
+        }
+      }
+      
+      if (finalTranscript) {
+        handleRecognitionResult(finalTranscript);
+      } else if (interimTranscript) {
+        interimResultHandler(interimTranscript);
+      }
+    };
+  }
+
+  // Set up event listeners
+  function setupEventListeners() {
+    // Add event listeners for all relevant elements
+  }
+
+  // Rest of the existing code...
+});
